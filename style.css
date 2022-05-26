@@ -83,12 +83,12 @@ section.blank{
 }
 
 section#img001 {
-    background-image: url(../PAGE_11_MODULO_3_PROJETO_2/IMG/IMG_FUNDO/pacote-d012/imagens/background001.jpg);
+    background-image: url(../projeto-efeito-parallax-by-marcos/IMG/background001.jpg);
     background-position: right center;
     background-size: cover;
 }
 section#img002 {
-    background-image: url(../PAGE_11_MODULO_3_PROJETO_2/IMG/IMG_FUNDO/pacote-d012/imagens/background002.jpg);
+    background-image: url(../projeto-efeito-parallax-by-marcos/IMG/background002.jpg);
     background-size: 100% 100%;
 }
 
